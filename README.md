@@ -1,1 +1,0 @@
-# Simple-GAN-for-Art
